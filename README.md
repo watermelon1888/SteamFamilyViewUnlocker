@@ -6,6 +6,12 @@ A lightweight, dependency-free tool to recover your forgotten Steam Family View 
 ## 🚀 Usage / 使用方法
 1.确保 Steam 正在运行（用于检测活跃用户）
 
+Ensure Steam is running (to detect active user)
+
 2.直接运行脚本
 
+Run the script directly
+
 3.如果未找到活跃用户，按照提示输入你的 Steam 好友代码
+
+If no active user is detected, follow the prompts to enter your Steam friend code.
